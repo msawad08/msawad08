@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**msawad08/msawad08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mohammed Sawad 
+### Tech Lead & Software Architect 
+*Specializing in Generative AI, Agentic AI, & High-Performance 3D Rendering Systems*
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-sawad/)
+[![GitHub followers](https://img.shields.io/github/followers/msawad08?style=flat&logo=github)](https://github.com/msawad08)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 💡 About Me
+
+I am a Software Architect and Technical Lead focused on building scalable distributed backends, intelligent multi-agent AI pipelines, and real-time interactive 3D graphics systems. My work bridges deep systems engineering with modern generative AI capabilities to deliver high-performance enterprise platforms.
+
+---
+
+### 🛠️ Technical Arsenal
+
+* **AI & Agentic Systems:** LLM Orchestration, Local Model Inference (FLUX, Qwen 2.5, MiniMax), Multi-Agent Workflows, RAG Pipelines
+* **Cloud Backend & Architecture:** NestJS, Microservices, Distributed Systems, Monorepo Architecture, High-Concurrency Slot Booking & POS Engines
+* **3D & Real-Time Graphics:** WebGL, Unreal Engine Pipelines, Real-Time Post-Processing, Custom Rendering Automation
+* **Mobile & Frontend Engineering:** Cross-Platform Apps (Flutter/Dart), Complex Layout Rendering, Reactive State Management (BLoC)
+
+---
+
+### 🚀 Key Engineering Projects
+
+* **[Keianza Platform](https://github.com/msawad08)** — Architected and led the development of a comprehensive cloud-based venue management ecosystem, integrating real-time ticketing, POS modules, and slot-based booking engines on a robust NestJS monorepo architecture.
+* **[3D Visualiser Platform](https://github.com/msawad08/3dVisualiserPlatfrom)** — Built interactive 3D visualization tools featuring real-time rendering pipelines and custom parameter controls.
+* **AI Orchestration & Tooling** — Developed specialized pipelines and automation tooling for local model execution, optimizing throughput for generative media and text processing.
+
+---
+
+### 📊 GitHub Activity Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msawad08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msawad08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
