@@ -34,10 +34,4 @@ I am a Software Architect and Technical Lead focused on building scalable distri
 
 ---
 
-### 📊 GitHub Activity Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msawad08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msawad08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
